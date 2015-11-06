@@ -1,11 +1,12 @@
 
 This dockerifle reference the official version: https://github.com/CentOS/CentOS-Dockerfiles/tree/master/ssh/centos7
 
-#1. Create sshd_centos7 dir and add two files as below:
-# tree sshd_centos7/
-sshd_centos7/
-├── Dockerfile
-└── start.sh
+1. Create sshd_centos7 dir and add two files as below:
+
+    # tree sshd_centos7/
+    sshd_centos7/
+    ├── Dockerfile
+    └── start.sh
  
 2.Build your own ssh image 
 Copy the sources to your docker host and build the container:
