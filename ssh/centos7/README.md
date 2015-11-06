@@ -1,6 +1,6 @@
 
 ##dockerfiles-centos7-ssh
-This dockerifle reference the official version: [official](https://github.com/CentOS/CentOS-Dockerfiles/tree/master/ssh/centos7)
+This dockerifle referes the official version: [official](https://github.com/CentOS/CentOS-Dockerfiles/tree/master/ssh/centos7)
 
 ###1.Create sshd_centos7 dir and add two files as below:
     [root@iZ281hdlfydZ]# tree sshd_centos7/
